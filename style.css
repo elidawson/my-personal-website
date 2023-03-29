@@ -1,3 +1,11 @@
+* {
+  font: courier;
+}
+
 body {
-    background: blue;
+    background: #acc7d8;
   }
+
+h1, h2, nav {
+  text-align: center;
+}
